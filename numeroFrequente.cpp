@@ -3,38 +3,35 @@
 using namespace std;
 
 int main(){
-    int tot;
-    cout << "inserisci la grandezza dell'array (max 50)" << endl;
-    cin >> tot;
-    while(tot > 50 || tot < 0){
-        cout << "reinserisci la grandezza dell'array (max 50)" << endl;
+    int array[50];
+    int tot;// 20
+    do{
+        cout << "inserisci la grandezza dell'array (max 50)" << endl;
         cin >> tot;
-    }
-    int array[tot];
+    }while(tot > 50 || tot < 0);
     for(/*variabili da inizializzare*/int i = 0; /*condizione*/i < tot; /*incremento */i++){
         cout << "inserisci il " << i+1 << "° elemento" << endl;
         cin >> array[i];
     }
-    int count[tot];
+    int count[50];
     for(int i=0;i<tot;i++){
         count[i] = 0;
-    }
-    for(int i=0;i<tot;i++){
         for(int j=0;j<tot;j++){
             if(array[i] == array[j]){
                 count[i]++;
             }
         }
     }
-    for(int i=0;i<tot;i++){
-        cout << array[i] << "\t e' presente " << count[i] << " volte" << endl;
-    }
+    // for(int i=0;i<tot;i++){
+    //     cout << array[i] << "\t e' presente " << count[i] << " volte" << endl;
+    // }
     int max = 0; //quante volte viene ripetuto il/i numeri ripetuti più volte
     for(int i=0;i<tot;i++){
         if(count[i] > max){
             max = count[i];
         }
     }
+    int arrayParziale[50];
     int totParziale = 0; // quanti numeri vengono ripetuti max volte
     for(int i=0;i<tot;i++){
         if(count[i] == max){
@@ -49,7 +46,6 @@ int main(){
             }
         }
     }else{
-        int arrayParziale[totParziale];
         for(int i=0, j=0;i<tot;i++){
             if(count[i] == max){
                 arrayParziale[j] = array[i];
