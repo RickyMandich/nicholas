@@ -4,4 +4,5 @@
 |2025 12 06 sabato|15 30|17 30|2|26|
 # mingw
 link per mingw:  https://techdecodetutorials.com/downloads/mingw.exe
+
 bibbia multilinguaggio: https://github.com/RickyMandich/corso_base_programmazione
