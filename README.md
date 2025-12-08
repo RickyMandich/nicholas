@@ -3,5 +3,5 @@
 |:-:|:-:|:-:|:-:|:-:|
 |2025 12 06 sabato|15 30|17 30|2|26|
 # riferimenti utili
-- link per mingw:  https://techdecodetutorials.com/downloads/mingw.exe
+- link per mingw:  https://github.com/RickyMandich/corso_base_programmazione/blob/main/mingw.exe
 - bibbia multilinguaggio: https://github.com/RickyMandich/corso_base_programmazione
