@@ -4,16 +4,22 @@ using namespace std;
 
 int main(){
 
-    cout << "inserisci un numero in input" << endl;
-    int tot = 0;
-    int n = 0;
-    cin >> n;
-    while(n>0){
-        tot += n%10;
-        n /= 10;
-    }
+    // input: 153
+    // output: 9
+    int num1;
+    int numfinale =0;
 
-    cout << "la somma delle cifre e' " << tot;
-    
+    cout<<"inserisci un numero "<<endl;
+    cin>>num1;
+
+    // while:   NON SO quanti giri faccio
+    // for:     SO quanti giri faccio
+
+    while(num1 != 0){
+        //x%y = resto di x/y
+        numfinale += num1%10; // 3
+        num1 /= 10;
+    }
+    cout << "la somma delle cifre e':\t" << (numfinale > 0 ? numfinale : -numfinale) << endl;
     return 0;
 }

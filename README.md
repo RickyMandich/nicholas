@@ -5,8 +5,8 @@
 |matematica|2025 12 08 lunedì|16 00|17 00|1|13|Arrivato|
 |informatica|2025 12 08 lunedì|17 00|18 00|1|13|Arrivato|
 |informatica|2025 12 23 martedì|14 30|16 30|2|26|Arrivato|
-|matematica|2026 02 17 martedì|09 20|11 20|2|26|Non Arrivato|
-|informatica|2026 03 01 domenica|15 00|17 00|2|26|Lezione Non Svolta|
+|matematica|2026 02 17 martedì|09 20|11 20|2|26|Arrivato|
+|informatica|2026 03 07 sabato|10 00|12 00|2|26|Non Arrivato|
 # riferimenti utili
 - link per mingw:  https://github.com/RickyMandich/corso_base_programmazione/blob/main/mingw.exe
 - bibbia multilinguaggio: https://github.com/RickyMandich/corso_base_programmazione
