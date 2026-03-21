@@ -15,4 +15,4 @@ packages.config
 */x64/*
 */Debug/*
 */Release/*
-*/packages/
+packages/*

@@ -9,6 +9,7 @@
 |informatica|2026 03 07 sabato|10 00|12 00|2|26|Arrivato|
 |matematica|2026 03 14 sabato|10 00|12 00|2|26|Arrivato|
 |informatica|2026 03 21 sabato|08 30|10 30|2|26|Non Arrivato|
+
 # riferimenti utili
 - link per mingw:  https://github.com/RickyMandich/corso_base_programmazione/blob/main/mingw.exe
 - bibbia multilinguaggio: https://github.com/RickyMandich/corso_base_programmazione
