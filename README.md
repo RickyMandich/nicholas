@@ -9,8 +9,9 @@
 |informatica|2026 03 07 sabato|10 00|12 00|2|26|Arrivato|
 |matematica|2026 03 14 sabato|10 00|12 00|2|26|Arrivato|
 |informatica|2026 03 21 sabato|08 30|10 30|2|26|Arrivato|
-|informatica|2026 04 04 sabato|10 00|12 00|2|26/2 per frantindimento|Non Arrivato|
-|informatica|2026 04 11 sabato|10 00|12 00|2|26|Lezione Non Svolta|
+|informatica|2026 04 04 sabato|10 00|12 00|2|26/2 per frantindimento|In Arrivo|
+|matematica|2026 04 11 sabato|10 00|12 00|2|26|In Arrivo|
+|informatica|2026 04 18 sabato|10 00|12 00|2|26|Lezione Non Ancora Svolta|
 
 # riferimenti utili
 - link per mingw:  https://github.com/RickyMandich/corso_base_programmazione/blob/main/mingw.exe
