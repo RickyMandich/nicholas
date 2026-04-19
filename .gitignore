@@ -12,7 +12,11 @@
 *.obj
 .vs/
 packages.config
-*/x64/*
-*/Debug/*
-*/Release/*
-*/packages/
+packages/
+**/bin/
+**/obj/
+**/x64/
+**/Debug/
+**/Release/
+**/.vs/
+*.log
