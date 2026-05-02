@@ -1,0 +1,2 @@
+- [X] se non prendi la pallina il programma continua
+- [X] player si muove solo al press, non tenendo premuto

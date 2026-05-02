@@ -14,15 +14,19 @@ int main()
     float ball_x = 400;
 	float ball_y = 300;
     float ball_radius = 30;
-	float ball_speed_x = 1;
-	float ball_speed_y = 1;
+	float ball_speed_x = 3;
+	float ball_speed_y = 3;
 	// paddle properties
 	const int paddle_width = ball_radius;
 	const int paddle_height = 100;
 	float paddle_x = 0;
 	float paddle_y = display_height/2 - paddle_height/2;
+	float paddle_speed = 3;
     // punteggio
 	int score = 0;
+	bool upPressed = false;
+	bool downPressed = false;
+	float acceleration_factor = 0.5;
 
     // Inizializza Allegro 5
     if (!al_init()) {
@@ -51,27 +55,66 @@ int main()
     al_start_timer(timer);
     bool running = true;
     while (running) {
+        if (paddle_speed > 0) {
+            paddle_speed = 3 + (int)(score * acceleration_factor);
+        }
+        else {
+            paddle_speed = -(3 + (int)(score * acceleration_factor));
+        }
+        if (ball_speed_y > 0) {
+            ball_speed_y = 3 + (int)(score * acceleration_factor);
+        } else {
+            ball_speed_y = -(3 + (int)(score * acceleration_factor));
+        }
+		if (ball_speed_x > 0) {
+            ball_speed_x = 3 + (int)(score * acceleration_factor);
+        } else {
+            ball_speed_x = -(3 + (int)(score * acceleration_factor));
+        }
         ALLEGRO_EVENT ev;
         al_wait_for_event(event_queue, &ev);
-
+        
         if (ev.type == ALLEGRO_EVENT_DISPLAY_CLOSE) {
             running = false;
         } else if (ev.type == ALLEGRO_EVENT_KEY_DOWN) {
             switch (ev.keyboard.keycode) {
-                case ALLEGRO_KEY_ESCAPE:
-                    running = false;
-                    break;
-                case ALLEGRO_KEY_W:
-				case ALLEGRO_KEY_UP:
-					paddle_y -= 1;
-                    break;
-                case ALLEGRO_KEY_S:
-				case ALLEGRO_KEY_DOWN:
-                    paddle_y += 1;
-                    break;
-			}
-		}
+            case ALLEGRO_KEY_ESCAPE:
+                running = false;
+                break;
+            case ALLEGRO_KEY_W:
+            case ALLEGRO_KEY_UP:
+                upPressed = true;
+                break;
+            case ALLEGRO_KEY_S:
+            case ALLEGRO_KEY_DOWN:
+                downPressed = true;
+                break;
+            }
+        } else if (ev.type == ALLEGRO_EVENT_KEY_UP) {
+            switch (ev.keyboard.keycode) {
+            case ALLEGRO_KEY_W:
+            case ALLEGRO_KEY_UP:
+                upPressed = false;
+                break;
+            case ALLEGRO_KEY_S:
+            case ALLEGRO_KEY_DOWN:
+                downPressed = false;
+                break;
+            }
+        }
         else if (ev.type == ALLEGRO_EVENT_TIMER) {
+            if (upPressed) {
+                paddle_y -= paddle_speed;
+                if (paddle_y < 0) {
+                    paddle_y = 0;
+                }
+            }
+            if (downPressed) {
+                paddle_y += paddle_speed;
+                if (paddle_y + paddle_height > display_height) {
+                    paddle_y = display_height - paddle_height;
+                }
+            }
 			ball_x += ball_speed_x;
 			ball_y += ball_speed_y;
 
@@ -103,6 +146,10 @@ int main()
                 ) {
                 score++;
 				cout << "Punto! (" << score << ")" << endl;
+            }
+            else if (ball_x - ball_radius <= 0) {
+				cout << "Hai perso! Punteggio finale: " << score << endl;
+				running = false;
             }
 
 			// disegna tutto

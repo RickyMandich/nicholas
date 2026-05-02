@@ -10,6 +10,7 @@
 *.recipe
 *.pdb
 *.obj
+*.exe
 .vs/
 packages.config
 packages/
