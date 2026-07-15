@@ -1,18 +1,16 @@
-# MANUALE DI RIPETIZIONE
 # RETI CAPACITIVE
 
 ---
 
-# Capitolo 1
-# Cos'è un condensatore
+## Capitolo 1: Cos'è un condensatore
 
-## Definizione tecnica
+### Definizione tecnica
 
 Un condensatore è un componente elettronico formato da due armature conduttrici separate da un materiale isolante chiamato dielettrico.
 
 ---
 
-## Spiegazione terra terra
+### Spiegazione terra terra
 
 Immagina due piatti metallici messi molto vicini.
 
@@ -31,7 +29,7 @@ La conserva.
 
 ---
 
-## Da ricordare
+### Da ricordare
 
 Il condensatore è una specie di piccola batteria molto veloce.
 
@@ -41,7 +39,7 @@ Si scarica in poco tempo.
 
 ---
 
-# Le armature
+### Le armature
 
 Le armature sono le due piastre metalliche del condensatore.
 
@@ -55,15 +53,15 @@ maggiore sarà la tensione.
 
 ---
 
-# Il dielettrico
+### Il dielettrico
 
-## Definizione tecnica
+#### Definizione tecnica
 
 Materiale isolante posto tra le armature.
 
 ---
 
-## Spiegazione semplice
+#### Spiegazione semplice
 
 Il dielettrico è il muro che impedisce agli elettroni di attraversare il condensatore.
 
@@ -75,7 +73,7 @@ Avremmo un cortocircuito.
 
 ---
 
-# Come si carica un condensatore
+### Come si carica un condensatore
 
 Quando lo colleghiamo ad una batteria:
 
@@ -96,7 +94,7 @@ la corrente diventa praticamente zero.
 
 ---
 
-## Analogia
+#### Analogia
 
 Immagina di riempire una bottiglia.
 
@@ -110,7 +108,7 @@ Succede la stessa cosa con il condensatore.
 
 ---
 
-# Come si scarica
+### Come si scarica
 
 Se togliamo la batteria e colleghiamo le due armature tramite una resistenza,
 
@@ -120,7 +118,7 @@ Il condensatore restituisce l'energia accumulata.
 
 ---
 
-## Analogia
+#### Analogia
 
 È come comprimere una molla.
 
@@ -130,7 +128,7 @@ la molla restituisce tutta l'energia accumulata.
 
 ---
 
-# Campo elettrico
+### Campo elettrico
 
 Quando una piastra è positiva e l'altra negativa,
 
@@ -140,7 +138,7 @@ tra loro nasce un campo elettrico.
 
 ---
 
-## Spiegazione semplice
+#### Spiegazione semplice
 
 Il campo elettrico è una forza invisibile presente tra le due armature.
 
@@ -148,7 +146,7 @@ Il campo elettrico è una forza invisibile presente tra le due armature.
 
 ---
 
-# Polarizzazione del dielettrico
+### Polarizzazione del dielettrico
 
 Il campo elettrico modifica leggermente la disposizione delle molecole del materiale isolante.
 
@@ -156,7 +154,7 @@ Questo fenomeno prende il nome di polarizzazione.
 
 ---
 
-## Terra terra
+#### Terra terra
 
 Il dielettrico non rimane completamente fermo.
 
@@ -166,7 +164,7 @@ Un po' come tanti piccoli magneti.
 
 ---
 
-# Rigidità dielettrica
+### Rigidità dielettrica
 
 Ogni materiale sopporta una tensione massima.
 
@@ -180,7 +178,7 @@ Il condensatore si danneggia.
 
 ---
 
-## Da ricordare
+#### Da ricordare
 
 Più alta è la rigidità dielettrica,
 
@@ -188,7 +186,7 @@ più tensione può sopportare il condensatore.
 
 ---
 
-# Domande tipiche del professore
+### Domande tipiche del professore
 
 - Cos'è un condensatore?
 - Da quali parti è formato?
@@ -199,7 +197,7 @@ più tensione può sopportare il condensatore.
 
 ---
 
-# Errori frequenti
+### Errori frequenti
 
 ❌ Dire che il condensatore produce energia.
 
@@ -217,7 +215,7 @@ Attraversano solamente il circuito esterno.
 
 ---
 
-# Riassunto in 30 secondi
+### Riassunto in 30 secondi
 
 Il condensatore è formato da due armature separate da un isolante.
 
@@ -229,18 +227,13 @@ Durante la scarica restituisce l'energia accumulata.
 
 
 
-# MANUALE DI RIPETIZIONE
-# RETI CAPACITIVE
-
-# Parte 2
-# Capacità ed Energia
+## Parte 2: Capacità ed Energia
 
 ---
 
-# Capitolo 2
-# La capacità di un condensatore
+## Capitolo 2: La capacità di un condensatore
 
-## Definizione tecnica
+### Definizione tecnica
 
 La capacità è la grandezza che misura la quantità di carica elettrica che un condensatore può accumulare per ogni volt applicato ai suoi morsetti.
 
@@ -256,7 +249,7 @@ dove:
 
 ---
 
-## Spiegazione terra terra
+### Spiegazione terra terra
 
 Immagina tre bottiglie.
 
@@ -276,7 +269,7 @@ più elettroni riesce ad immagazzinare.
 
 ---
 
-## Cosa NON significa
+### Cosa NON significa
 
 Una capacità elevata NON significa che il condensatore abbia una tensione elevata.
 
@@ -288,7 +281,7 @@ Una cisterna enorme può contenere molta acqua anche se è riempita solo a metà
 
 ---
 
-# Formula fondamentale
+### Formula fondamentale
 
 C = Q / V
 
@@ -298,7 +291,7 @@ capacità = carica accumulata divisa per la tensione.
 
 ---
 
-## Come ricordarla
+### Come ricordarla
 
 Pensa alla formula:
 
@@ -310,7 +303,7 @@ La capacità misura quanta carica riesci ad accumulare per ogni volt.
 
 ---
 
-# Unità di misura
+### Unità di misura
 
 L'unità di misura è il
 
@@ -322,7 +315,7 @@ Per questo motivo quasi tutti i condensatori usano multipli e sottomultipli.
 
 ---
 
-## Multipli e sottomultipli
+#### Multipli e sottomultipli
 
 | Simbolo | Valore |
 |----------|---------|
@@ -334,7 +327,7 @@ Per questo motivo quasi tutti i condensatori usano multipli e sottomultipli.
 
 ---
 
-## Da ricordare
+#### Da ricordare
 
 Nell'elettronica si trovano quasi sempre:
 
@@ -346,11 +339,11 @@ Il Farad intero è molto raro.
 
 ---
 
-# Da cosa dipende la capacità?
+### Da cosa dipende la capacità?
 
 La capacità dipende principalmente da tre fattori.
 
-## 1. Superficie delle armature
+#### 1. Superficie delle armature
 
 Più sono grandi,
 
@@ -370,7 +363,7 @@ Quello grande può contenere molte più automobili.
 
 ---
 
-## 2. Distanza tra le armature
+#### 2. Distanza tra le armature
 
 Più le armature sono vicine,
 
@@ -388,7 +381,7 @@ Se sono a 500 metri di distanza è molto più difficile.
 
 ---
 
-## 3. Materiale isolante
+#### 3. Materiale isolante
 
 Alcuni materiali riescono ad accumulare meglio il campo elettrico.
 
@@ -398,7 +391,7 @@ Per questo motivo il tipo di dielettrico influenza la capacità.
 
 ---
 
-# Domanda tipica
+### Domanda tipica
 
 **Da cosa dipende la capacità di un condensatore?**
 
@@ -410,9 +403,9 @@ Risposta:
 
 ---
 
-# Energia elettrostatica
+### Energia elettrostatica
 
-## Definizione tecnica
+#### Definizione tecnica
 
 Durante la carica,
 
@@ -422,7 +415,7 @@ Questa energia prende il nome di energia elettrostatica.
 
 ---
 
-## Spiegazione terra terra
+#### Spiegazione terra terra
 
 Quando carichi un condensatore,
 
@@ -438,7 +431,7 @@ la molla si rilassa e restituisce tutta l'energia.
 
 ---
 
-# Formula dell'energia
+### Formula dell'energia
 
 L'energia immagazzinata vale
 
@@ -454,7 +447,7 @@ V = tensione
 
 ---
 
-## Come ricordarla
+#### Come ricordarla
 
 Osserva una cosa importante.
 
@@ -466,7 +459,7 @@ l'energia diventa quattro volte maggiore.
 
 ---
 
-## Esempio
+#### Esempio
 
 Supponiamo
 
@@ -487,7 +480,7 @@ Non è importante fare i conti a memoria.
 
 ---
 
-# Cosa succede durante la scarica?
+### Cosa succede durante la scarica?
 
 L'energia non scompare.
 
@@ -501,7 +494,7 @@ Effetto Joule.
 
 ---
 
-## Analogia
+#### Analogia
 
 Hai una molla compressa.
 
@@ -517,7 +510,7 @@ Poi il resistore la trasforma in calore.
 
 ---
 
-# Attenzione
+### Attenzione
 
 Molti studenti pensano che il condensatore "consumi" energia.
 
@@ -532,7 +525,7 @@ La resistenza invece la dissipa.
 
 ---
 
-# Riassunto delle formule
+### Riassunto delle formule
 
 Capacità
 
@@ -546,7 +539,7 @@ E = 1/2 · C · V²
 
 ---
 
-# Come ragionare senza formule
+### Come ragionare senza formule
 
 Se aumenta la capacità
 
@@ -572,7 +565,7 @@ l'energia aumenta moltissimo.
 
 ---
 
-# Errori frequenti
+### Errori frequenti
 
 ❌ Confondere capacità e tensione.
 
@@ -600,7 +593,7 @@ Ha semplicemente più capacità.
 
 ---
 
-# Domande tipiche del professore
+### Domande tipiche del professore
 
 - Cos'è la capacità?
 - Qual è la formula della capacità?
@@ -615,7 +608,7 @@ Ha semplicemente più capacità.
 
 ---
 
-# Riassunto in 60 secondi
+### Riassunto in 60 secondi
 
 La capacità misura quanta carica può immagazzinare un condensatore per ogni volt applicato.
 
@@ -632,16 +625,11 @@ Durante la scarica restituisce questa energia al circuito, che nella maggior par
 
 
 
-# MANUALE DI RIPETIZIONE
-# RETI CAPACITIVE
-
-# Parte 3
-# Collegamento dei condensatori
+## Parte 3: Collegamento dei condensatori
 
 ---
 
-# Capitolo 3
-# Perché collegare più condensatori?
+## Capitolo 3: Perché collegare più condensatori?
 
 Nella pratica un singolo condensatore spesso non basta.
 
@@ -660,15 +648,15 @@ La cosa importante è capire **come cambia il comportamento del circuito**.
 
 ---
 
-# Collegamento in serie
+### Collegamento in serie
 
-## Definizione tecnica
+#### Definizione tecnica
 
 Due o più condensatori sono collegati in serie quando sono disposti uno dopo l'altro lungo lo stesso ramo del circuito.
 
 ---
 
-## Schema mentale
+#### Schema mentale
 
 ```
 + ──||────||────||── -
@@ -678,7 +666,7 @@ La corrente passa attraverso tutti nello stesso percorso.
 
 ---
 
-# Cosa succede?
+### Cosa succede?
 
 La capacità equivalente **diminuisce**.
 
@@ -692,9 +680,9 @@ Con i condensatori **in serie è il contrario**.
 
 ---
 
-# Perché diminuisce?
+### Perché diminuisce?
 
-## Spiegazione terra terra
+#### Spiegazione terra terra
 
 Immagina di voler immagazzinare acqua.
 
@@ -708,7 +696,7 @@ Alla fine la capacità complessiva è minore.
 
 ---
 
-## Un'altra analogia
+#### Un'altra analogia
 
 Pensa a tre molle.
 
@@ -722,7 +710,7 @@ Con i condensatori succede qualcosa di simile.
 
 ---
 
-# Formula
+### Formula
 
 Per due condensatori
 
@@ -734,7 +722,7 @@ Per tre
 
 ---
 
-## Caso particolare
+#### Caso particolare
 
 Se sono uguali
 
@@ -762,7 +750,7 @@ Capacità equivalente
 
 ---
 
-# Da ricordare
+### Da ricordare
 
 In serie
 
@@ -770,17 +758,17 @@ In serie
 
 ---
 
-# Carica nei condensatori in serie
+### Carica nei condensatori in serie
 
 Questa è una domanda molto frequente.
 
-## Regola
+#### Regola
 
 La carica è la stessa su tutti i condensatori.
 
 ---
 
-## Perché?
+#### Perché?
 
 Perché la corrente che attraversa il circuito è la stessa.
 
@@ -790,7 +778,7 @@ Quindi ogni condensatore accumula la stessa quantità di carica.
 
 ---
 
-# Tensione nei condensatori in serie
+### Tensione nei condensatori in serie
 
 Le tensioni si dividono.
 
@@ -800,7 +788,7 @@ Vtot = V1 + V2 + V3
 
 ---
 
-## Come ricordarlo
+#### Come ricordarlo
 
 La tensione è come un budget.
 
@@ -810,7 +798,7 @@ devono essere distribuiti tra tutti i condensatori.
 
 ---
 
-## Se i condensatori sono uguali
+#### Se i condensatori sono uguali
 
 La tensione si divide in parti uguali.
 
@@ -830,7 +818,7 @@ tre condensatori uguali
 
 ---
 
-# Riassunto della serie
+### Riassunto della serie
 
 Capacità
 
@@ -852,15 +840,15 @@ si divide
 
 ---
 
-# Collegamento in parallelo
+### Collegamento in parallelo
 
-## Definizione tecnica
+#### Definizione tecnica
 
 I condensatori sono collegati agli stessi due morsetti.
 
 ---
 
-## Schema mentale
+#### Schema mentale
 
 ```
       || 
@@ -875,15 +863,15 @@ I condensatori sono collegati agli stessi due morsetti.
 
 ---
 
-# Cosa succede?
+### Cosa succede?
 
 La capacità equivalente aumenta.
 
 ---
 
-# Perché aumenta?
+### Perché aumenta?
 
-## Spiegazione terra terra
+#### Spiegazione terra terra
 
 Immagina tre bottiglie.
 
@@ -897,7 +885,7 @@ La capacità totale aumenta.
 
 ---
 
-## Analogia migliore
+#### Analogia migliore
 
 Tre parcheggi.
 
@@ -911,7 +899,7 @@ Con i condensatori è identico.
 
 ---
 
-# Formula
+### Formula
 
 Ceq = C1 + C2 + C3
 
@@ -939,7 +927,7 @@ Si sommano direttamente.
 
 ---
 
-# Tensione nel parallelo
+### Tensione nel parallelo
 
 La tensione è identica su tutti.
 
@@ -949,7 +937,7 @@ V1 = V2 = V3
 
 ---
 
-## Perché?
+#### Perché?
 
 Perché tutti sono collegati direttamente agli stessi morsetti.
 
@@ -959,7 +947,7 @@ La tensione è identica.
 
 ---
 
-# Carica nel parallelo
+### Carica nel parallelo
 
 La carica si divide.
 
@@ -969,7 +957,7 @@ Quello con capacità maggiore immagazzina più carica.
 
 ---
 
-# Riassunto del parallelo
+### Riassunto del parallelo
 
 Capacità
 
@@ -991,7 +979,7 @@ si divide
 
 ---
 
-# Confronto serie/parallelo
+### Confronto serie/parallelo
 
 | Grandezza | Serie | Parallelo |
 |-----------|--------|------------|
@@ -1001,7 +989,7 @@ si divide
 
 ---
 
-# Come ricordarlo in 10 secondi
+### Come ricordarlo in 10 secondi
 
 Serie
 
@@ -1043,7 +1031,7 @@ capacità maggiore
 
 ---
 
-# Errori più frequenti
+### Errori più frequenti
 
 ❌ Pensare che in serie aumenti la capacità.
 
@@ -1079,7 +1067,7 @@ Sono due cose diverse.
 
 ---
 
-# Domande tipiche del professore
+### Domande tipiche del professore
 
 - Perché si collegano più condensatori?
 - Come si calcola la capacità equivalente in serie?
@@ -1093,9 +1081,9 @@ Sono due cose diverse.
 
 ---
 
-# Trucchetto per ricordare tutto
+### Trucchetto per ricordare tutto
 
-## Serie
+#### Serie
 
 Immagina una fila di persone che si passano dei secchi.
 
@@ -1107,7 +1095,7 @@ Per questo la carica è uguale.
 
 ---
 
-## Parallelo
+#### Parallelo
 
 Immagina tre secchi affiancati sotto la pioggia.
 
@@ -1117,7 +1105,7 @@ Ma quello più grande raccoglie più acqua (carica).
 
 ---
 
-# Riassunto finale (1 minuto)
+### Riassunto finale (1 minuto)
 
 I condensatori possono essere collegati in serie o in parallelo.
 
@@ -1132,18 +1120,13 @@ Per ricordarlo basta pensare che **la serie allunga il sistema e ne riduce la ca
 
 
 
-# MANUALE DI RIPETIZIONE
-# RETI CAPACITIVE
-
-# Parte 4
-# Circuiti RC, carica e scarica del condensatore
+## Parte 4: Circuiti RC, carica e scarica del condensatore
 
 ---
 
-# Capitolo 4
-# Il circuito RC
+## Capitolo 4: Il circuito RC
 
-## Cos'è un circuito RC?
+### Cos'è un circuito RC?
 
 Un circuito RC è un circuito formato principalmente da:
 
@@ -1154,7 +1137,7 @@ Questi due componenti lavorano insieme e determinano **la velocità con cui il c
 
 ---
 
-## Spiegazione terra terra
+#### Spiegazione terra terra
 
 Immagina di voler riempire una piscina.
 
@@ -1176,7 +1159,7 @@ La piscina però si riempie sempre.
 
 ---
 
-# Cosa succede quando chiudiamo l'interruttore?
+### Cosa succede quando chiudiamo l'interruttore?
 
 All'inizio il condensatore è completamente scarico.
 
@@ -1198,9 +1181,9 @@ Infine:
 
 ---
 
-# Perché la corrente diminuisce?
+### Perché la corrente diminuisce?
 
-## Spiegazione tecnica
+#### Spiegazione tecnica
 
 Durante la carica aumenta la tensione del condensatore.
 
@@ -1210,7 +1193,7 @@ Di conseguenza la corrente diminuisce progressivamente.
 
 ---
 
-## Spiegazione semplice
+#### Spiegazione semplice
 
 All'inizio il condensatore è vuoto.
 
@@ -1228,7 +1211,7 @@ Quando è quasi pieno bisogna soffiare molto più forte.
 
 ---
 
-# Andamento della tensione
+### Andamento della tensione
 
 La tensione NON cresce in modo lineare.
 
@@ -1240,7 +1223,7 @@ Infine si avvicina lentamente al valore della batteria.
 
 ---
 
-## Analogia
+#### Analogia
 
 Pensa ad un parcheggio.
 
@@ -1252,7 +1235,7 @@ ci metti molto più tempo.
 
 ---
 
-# Andamento della corrente
+### Andamento della corrente
 
 La corrente fa il contrario.
 
@@ -1264,7 +1247,7 @@ Alla fine diventa praticamente zero.
 
 ---
 
-# Da ricordare
+### Da ricordare
 
 Durante la carica
 
@@ -1274,7 +1257,7 @@ Corrente ↓
 
 ---
 
-# La costante di tempo
+### La costante di tempo
 
 È probabilmente la cosa più importante di tutto il capitolo.
 
@@ -1284,7 +1267,7 @@ La formula è
 
 ---
 
-## Cosa rappresenta?
+#### Cosa rappresenta?
 
 La costante di tempo indica quanto rapidamente il condensatore si carica o si scarica.
 
@@ -1298,7 +1281,7 @@ più il processo è lento.
 
 ---
 
-## Come ricordarla
+#### Come ricordarla
 
 Immagina due situazioni.
 
@@ -1335,7 +1318,7 @@ In entrambi i casi il tempo aumenta.
 
 ---
 
-# Formula
+### Formula
 
 τ = R × C
 
@@ -1347,7 +1330,7 @@ C = capacità
 
 ---
 
-# Cosa succede dopo una costante di tempo?
+### Cosa succede dopo una costante di tempo?
 
 Questa è una domanda classicissima.
 
@@ -1363,7 +1346,7 @@ il condensatore NON è completamente carico.
 
 ---
 
-## Perché proprio 63?
+#### Perché proprio 63?
 
 Non serve sapere la dimostrazione.
 
@@ -1373,7 +1356,7 @@ Per l'interrogazione basta ricordare il numero.
 
 ---
 
-# Regola d'oro
+### Regola d'oro
 
 Dopo
 
@@ -1425,13 +1408,13 @@ oltre il 99%
 
 ---
 
-## Da ricordare
+#### Da ricordare
 
 Dopo 5τ possiamo considerare il condensatore completamente carico.
 
 ---
 
-# Trucchetto mnemonico
+### Trucchetto mnemonico
 
 5τ
 
@@ -1441,7 +1424,7 @@ condensatore praticamente pieno.
 
 ---
 
-# Perché non si dice "100%"?
+### Perché non si dice "100%"?
 
 Perché matematicamente il condensatore non arriva mai davvero al valore finale.
 
@@ -1465,7 +1448,7 @@ Ma dopo un po' puoi considerarlo uguale.
 
 ---
 
-# Scarica del condensatore
+### Scarica del condensatore
 
 Ora immaginiamo di scollegare la batteria.
 
@@ -1479,7 +1462,7 @@ Il condensatore si svuota.
 
 ---
 
-## Cosa succede alla corrente?
+#### Cosa succede alla corrente?
 
 All'inizio è massima.
 
@@ -1489,7 +1472,7 @@ Infine diventa zero.
 
 ---
 
-## Cosa succede alla tensione?
+#### Cosa succede alla tensione?
 
 All'inizio è uguale alla tensione della batteria.
 
@@ -1499,7 +1482,7 @@ Alla fine arriva a zero.
 
 ---
 
-# Anche nella scarica compare τ
+### Anche nella scarica compare τ
 
 La stessa costante di tempo vale anche nella scarica.
 
@@ -1531,7 +1514,7 @@ Perché
 
 ---
 
-## Dopo 5τ
+#### Dopo 5τ
 
 Rimane meno dell'1%.
 
@@ -1539,9 +1522,9 @@ Possiamo considerare il condensatore completamente scarico.
 
 ---
 
-# Confronto carica/scarica
+### Confronto carica/scarica
 
-## Carica
+#### Carica
 
 All'inizio
 
@@ -1557,7 +1540,7 @@ Corrente = zero
 
 ---
 
-## Scarica
+#### Scarica
 
 All'inizio
 
@@ -1573,7 +1556,7 @@ Corrente = zero
 
 ---
 
-# Esperienza di laboratorio
+### Esperienza di laboratorio
 
 Nelle slide il professore propone un'esperienza.
 
@@ -1581,7 +1564,7 @@ Lo scopo è osservare realmente la carica e la scarica.
 
 ---
 
-## Materiale
+#### Materiale
 
 - alimentatore
 - condensatore
@@ -1592,7 +1575,7 @@ Lo scopo è osservare realmente la carica e la scarica.
 
 ---
 
-## Procedura
+#### Procedura
 
 1. Caricare il condensatore.
 
@@ -1609,7 +1592,7 @@ Lo scopo è osservare realmente la carica e la scarica.
 
 ---
 
-## Cosa si osserva?
+#### Cosa si osserva?
 
 Durante la carica
 
@@ -1622,7 +1605,7 @@ Durante la scarica
 
 ---
 
-# Perché è importante questa esperienza?
+### Perché è importante questa esperienza?
 
 Perché dimostra che:
 
@@ -1632,7 +1615,7 @@ Perché dimostra che:
 
 ---
 
-# Errori frequenti
+### Errori frequenti
 
 ❌ Pensare che il condensatore si carichi immediatamente.
 
@@ -1669,7 +1652,7 @@ Serve più tempo.
 
 ---
 
-# Domande tipiche del professore
+### Domande tipiche del professore
 
 - Cos'è un circuito RC?
 - Perché la corrente diminuisce durante la carica?
@@ -1684,7 +1667,7 @@ Serve più tempo.
 
 ---
 
-# Le quattro cose da ricordare assolutamente
+### Le quattro cose da ricordare assolutamente
 
 ✅ τ = R × C
 
@@ -1699,7 +1682,7 @@ Serve più tempo.
 
 ---
 
-# Riassunto finale (2 minuti)
+### Riassunto finale (2 minuti)
 
 Un circuito RC è formato da una resistenza e da un condensatore.
 

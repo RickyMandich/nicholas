@@ -2,16 +2,16 @@
 
 > Materiale di riferimento:
 >
-> - reti capacitive - parte 1.pdf
-> - reti capacitive - parte 2.pdf
-> - reti capacitive - parte 3.pdf
-> - reti capacitive - parte 4.pdf
+> - retiCapacitive-parte1.pdf
+> - retiCapacitive-parte2.pdf
+> - retiCapacitive-parte3.pdf
+> - retiCapacitive-parte4.pdf
 
 ---
 
-# 1. IL CONDENSATORE
+## 1. IL CONDENSATORE
 
-## □ Cos'è un condensatore
+### Cos'è un condensatore
 **File**
 - Parte 1
 
@@ -22,17 +22,17 @@
 ⭐⭐⭐⭐⭐
 
 Da sapere
-- definizione
-- armature
-- dielettrico
-- simbolo
-- come funziona
-- carica
-- scarica
+- [] definizione
+- [] armature
+- [] dielettrico
+- [] simbolo
+- [] come funziona
+- [] carica
+- [] scarica
 
 ---
 
-## □ Polarizzazione del dielettrico
+### Polarizzazione del dielettrico
 
 **File**
 - Parte 1
@@ -45,14 +45,14 @@ Da sapere
 
 Da sapere
 
-- campo elettrico
-- polarizzazione
-- rigidità dielettrica
-- scarica disruptiva
+- [] campo elettrico
+- [] polarizzazione
+- [] rigidità dielettrica
+- [] scarica disruptiva
 
 ---
 
-## □ Tipologie di condensatori
+### Tipologie di condensatori
 
 **File**
 - Parte 1
@@ -65,14 +65,14 @@ Da sapere
 
 Da sapere
 
-- elettrolitici
-- tantalio
-- supercondensatori
-- ceramici
+- [] elettrolitici
+- [] tantalio
+- [] supercondensatori
+- [] ceramici
 
 ---
 
-## □ Applicazioni dei condensatori
+### Applicazioni dei condensatori
 
 **File**
 - Parte 1
@@ -85,17 +85,17 @@ Da sapere
 
 Da sapere
 
-- filtri
-- alimentatori
-- flash
-- reset RC
-- sensori capacitivi
+- [] filtri
+- [] alimentatori
+- [] flash
+- [] reset RC
+- [] sensori capacitivi
 
 ---
 
-# 2. CAPACITÀ
+## 2. CAPACITÀ
 
-## □ Capacità di un condensatore
+### Capacità di un condensatore
 
 **File**
 - Parte 2
@@ -108,14 +108,14 @@ Da sapere
 
 Da sapere
 
-- definizione
-- formula C = Q/V
-- Farad
-- multipli e sottomultipli
+- [] definizione
+- [] formula C = Q/V
+- [] Farad
+- [] multipli e sottomultipli
 
 ---
 
-## □ Energia elettrostatica
+### Energia elettrostatica
 
 **File**
 - Parte 2
@@ -128,15 +128,15 @@ Da sapere
 
 Da sapere
 
-- energia immagazzinata
-- formule
-- significato fisico
+- [] energia immagazzinata
+- [] formule
+- [] significato fisico
 
 ---
 
-# 3. COLLEGAMENTI
+## 3. COLLEGAMENTI
 
-## □ Condensatori in serie
+### Condensatori in serie
 
 **File**
 - Parte 3
@@ -146,13 +146,13 @@ Da sapere
 
 Da sapere
 
-- capacità equivalente
-- tensioni
-- carica
+- [] capacità equivalente
+- [] tensioni
+- [] carica
 
 ---
 
-## □ Condensatori in parallelo
+### Condensatori in parallelo
 
 **File**
 - Parte 3
@@ -162,15 +162,15 @@ Da sapere
 
 Da sapere
 
-- capacità equivalente
-- ripartizione della carica
-- tensione
+- [] capacità equivalente
+- [] ripartizione della carica
+- [] tensione
 
 ---
 
-# 4. CIRCUITI RC
+## 4. CIRCUITI RC
 
-## □ Carica del condensatore
+### Carica del condensatore
 
 **File**
 - Parte 4
@@ -183,13 +183,13 @@ Da sapere
 
 Da sapere
 
-- andamento della corrente
-- andamento della tensione
-- grafici
+- [] andamento della corrente
+- [] andamento della tensione
+- [] grafici
 
 ---
 
-## □ Costante di tempo
+### Costante di tempo
 
 **File**
 - Parte 4
@@ -202,15 +202,15 @@ Da sapere
 
 Da sapere
 
-- τ = RC
-- significato
-- 63%
-- 99%
-- 5τ
+- [] τ = RC
+- [] significato
+- [] 63%
+- [] 99%
+- [] 5τ
 
 ---
 
-## □ Scarica del condensatore
+### Scarica del condensatore
 
 **File**
 - Parte 4
@@ -223,15 +223,15 @@ Da sapere
 
 Da sapere
 
-- andamento
-- corrente
-- grafici
+- [] andamento
+- [] corrente
+- [] grafici
 
 ---
 
-# 5. ESPERIENZA DI LABORATORIO
+## 5. ESPERIENZA DI LABORATORIO
 
-## □ Esperienza di carica
+### Esperienza di carica
 
 **File**
 - Parte 4
@@ -244,13 +244,13 @@ Da sapere
 
 Da sapere
 
-- circuito
-- misure
-- grafici
+- [] circuito
+- [] misure
+- [] grafici
 
 ---
 
-## □ Esperienza di scarica
+### Esperienza di scarica
 
 **File**
 - Parte 4
@@ -263,13 +263,13 @@ Da sapere
 
 Da sapere
 
-- misure
-- andamento
-- interpretazione
+- [] misure
+- [] andamento
+- [] interpretazione
 
 ---
 
-# Checklist finale
+## Checklist finale
 
 Prima dell'esame bisogna saper spiegare:
 
@@ -287,4 +287,3 @@ Prima dell'esame bisogna saper spiegare:
 - [ ] Grafici di carica e scarica
 - [ ] Tipologie di condensatori
 - [ ] Applicazioni pratiche
-
