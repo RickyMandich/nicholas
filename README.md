@@ -19,10 +19,10 @@
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|
 |matematica|2026 07 14 martedì|15 00|17 00|2|26|Non Arrivato|
 |matematica|2026 07 16 giovedì|15 00|17 00|2|26|Non Arrivato|
-|matematica|2026 07 20 lunedì|15 00|17 00|2|26|Non Arrivato|
-|matematica|2026 07 23 giovedì|15 00|17 00|2|26|Non Arrivato|
-|matematica|2026 07 28 martedì|15 00|17 00|2|26|Non Arrivato|
-|matematica|2026 07 30 giovedì|15 00|17 00|2|26|Non Arrivato|
+|matematica|2026 07 20 lunedì|15 00|17 00|2|26|Lezione Non Acora Svolta|
+|matematica|2026 07 23 giovedì|15 00|17 00|2|26|Lezione Non Acora Svolta|
+|matematica|2026 07 28 martedì|15 00|17 00|2|26|Lezione Non Acora Svolta|
+|matematica|2026 07 30 giovedì|15 00|17 00|2|26|Lezione Non Acora Svolta|
 
 ## argomenti da recuperare
 ```
