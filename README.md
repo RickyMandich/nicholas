@@ -37,7 +37,7 @@ L'alunno ha manifestato frequenti cali di attenzione e marcati segnali di affati
         - [X] definizione e significato geometrico delle funzioni goniometriche (sin(x), cos(x) e tan(x))
         - [X] cenni sulle funzioni goniometriche inverse (sin(x), cos(x) e tan(x))
         - [X] angoli notevoli e loro associati
-        - [] formule goniometriche
+        - [X] formule goniometriche
         - [] equazioni e disequazioni goniometriche.
     - [] Trigonometria: Risoluzione dei triangoli, teoremi dei seni e del coseno, e relative applicazioni di trigonometria.
 
