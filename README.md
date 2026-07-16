@@ -19,10 +19,12 @@
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|
 |matematica|2026 07 14 martedì|15 00|17 00|2|26|Non Arrivato|
 |matematica|2026 07 16 giovedì|15 00|17 00|2|26|Non Arrivato|
-|matematica|2026 07 20 lunedì|15 00|17 00|2|26|Lezione Non Acora Svolta|
-|matematica|2026 07 23 giovedì|15 00|17 00|2|26|Lezione Non Acora Svolta|
-|matematica|2026 07 28 martedì|15 00|17 00|2|26|Lezione Non Acora Svolta|
-|matematica|2026 07 30 giovedì|15 00|17 00|2|26|Lezione Non Acora Svolta|
+|matematica|2026 07 20 lunedì|15 00|17 00|2|26|Lezione Non Ancora Svolta|
+|matematica|2026 07 23 giovedì|15 00|17 00|2|26|Lezione Non Ancora Svolta|
+|matematica|2026 07 28 martedì|15 00|17 00|2|26|Lezione Non Ancora Svolta|
+|matematica|2026 07 30 giovedì|15 00|17 00|2|26|Lezione Non Ancora Svolta|
+|matematica|2026 08 10 giovedì|15 00|17 00|2|26|Lezione Non Ancora Svolta|
+|matematica|2026 08 13 giovedì|15 00|17 00|2|26|Lezione Non Ancora Svolta|
 
 ## argomenti da recuperare
 ```
@@ -34,7 +36,7 @@ L'alunno ha manifestato frequenti cali di attenzione e marcati segnali di affati
         - [X] la loro misura e conversione
         - [X] definizione e significato geometrico delle funzioni goniometriche (sin(x), cos(x) e tan(x))
         - [X] cenni sulle funzioni goniometriche inverse (sin(x), cos(x) e tan(x))
-        - [] angoli notevoli e loro associati
+        - [X] angoli notevoli e loro associati
         - [] formule goniometriche
         - [] equazioni e disequazioni goniometriche.
     - [] Trigonometria: Risoluzione dei triangoli, teoremi dei seni e del coseno, e relative applicazioni di trigonometria.
