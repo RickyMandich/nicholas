@@ -17,10 +17,11 @@
 # pagamenti e lezioni durante l'estate
 |materia|giorno|dalle|alle|ore totali|tot € (13€/h)|stato pagamento|
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|
-|matematica|2026 07 14 martedì|15 00|17 00|2|26|Non Arrivato|
-|matematica|2026 07 16 giovedì|15 00|17 00|2|26|Non Arrivato|
-|matematica|2026 07 20 lunedì|15 00|17 00|2|26|Lezione Non Ancora Svolta|
-|matematica|2026 07 23 giovedì|15 00|17 00|2|26|Lezione Non Ancora Svolta|
+|matematica|2026 07 14 martedì|15 00|17 00|2|26|Arrivato|
+|matematica|2026 07 16 giovedì|15 00|17 00|2|26|Arrivato|
+|matematica|2026 07 20 lunedì|15 00|17 00|2|26|Arrivato|
+|matematica|2026 07 23 giovedì|15 00|17 00|2|26/2 Per Annulamento|Lezione Annullata Con Meno Di Un Giorno Di Preavviso|
+|matematica|2026 07 24 venerdì|15 00|17 00|2|26|Lezione Non Ancora Svolta|
 |matematica|2026 07 28 martedì|15 00|17 00|2|26|Lezione Non Ancora Svolta|
 |matematica|2026 07 30 giovedì|15 00|17 00|2|26|Lezione Non Ancora Svolta|
 |matematica|2026 08 10 giovedì|15 00|17 00|2|26|Lezione Non Ancora Svolta|
